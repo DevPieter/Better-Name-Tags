@@ -4,13 +4,13 @@
     "version": "1.0.0",
 
     "name": "Better Name Tags",
-    "description": "This is an example description! Tell everyone what your mod is about!",
+    "description": "Better Name Tags is a free and open-source Fabric mod.\nBetter Name Tags adds more info to the player's name tag, such as their ❤ health and ↔ distance removed from you.",
     "authors": [
         "DevPieter"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "homepage": "http://devpieter.nl/",
+        "sources": "https://github.com/DevPieter/Better-Name-Tags"
     },
 
     "license": "CC0-1.0",
