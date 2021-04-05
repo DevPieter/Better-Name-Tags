@@ -1,8 +1,5 @@
-.github/
-
 # gradle
 .gradle/
-gradle/
 build/
 out/
 classes/
