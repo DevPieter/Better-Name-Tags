@@ -44,7 +44,7 @@ import net.minecraft.util.math.Matrix4f;
 public abstract class EntityRendererMixin<T extends Entity> {
 
 	MinecraftClient minecraft = MinecraftClient.getInstance();
-	
+		
 	@Inject(method = "renderLabelIfPresent", at = @At("TAIL"))
 	protected void renderLabelIfPresent(T entity, Text text, MatrixStack matrices, VertexConsumerProvider vertexConsumers, int light, CallbackInfo callbackInfo) {
 		if (entity instanceof PlayerEntity) {
@@ -72,20 +72,22 @@ public abstract class EntityRendererMixin<T extends Entity> {
 				float infoRowOneX = (float) (-textRenderer.getWidth((StringVisitable) infoRowOne) / 2);
 				float textX = (float) (-textRenderer.getWidth((StringVisitable) text) / 2);
 				int y = -10;
-				
+								
 				textRenderer.draw(infoRowOne, infoRowOneX, (float) y, 553648127, false, matrix4f, vertexConsumers, isNotSneaky, backgroundColor, light);
 				
 				if (isNotSneaky) {
 					textRenderer.draw(infoRowOne, infoRowOneX, (float) y, -1, false, matrix4f, vertexConsumers, false, 0, light);
-					
+										
 					Identifier texture = nameToTexture(minecraft, player.getName().asString());
 					if(texture != null) {
 						
+						RenderSystem.enableDepthTest();
 						minecraft.getTextureManager().bindTexture(texture);
 						DrawableHelper.drawTexture(matrices, (int) textX - 11, y + 9, 10, 10, 8.0F, 8.0F, 8, 8, 64, 64);
 						RenderSystem.enableBlend();
 						DrawableHelper.drawTexture(matrices, (int) textX - 11, y + 9, 10, 10, 40.0F, 8.0F, 8, 8, 64, 64);
 						RenderSystem.disableBlend();
+						RenderSystem.disableDepthTest();			
 					}
 				}
 				matrices.pop();

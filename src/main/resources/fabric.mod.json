@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "betternametags",
-    "version": "1.0.0",
+    "version": "1.0.1",
 
     "name": "Better Name Tags",
     "description": "Better Name Tags is a free and open-source Fabric mod.\nBetter Name Tags adds more info to the player's name tag, such as their ❤ health and ↔ distance removed from you.",
