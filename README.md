@@ -11,7 +11,8 @@
 
 Better Name Tags is a free and open-source Fabric mod.
 
-Better Name Tags adds more info to the player's name tag, such as their ❤ health and ↔ distance removed from you.
+Better Name Tags is a useful mod that adds more information above the player's name tag.
+Such as their ❤ health and ↔ distance removed from you.
 
 <img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/name-tag.PNG"/>
 
