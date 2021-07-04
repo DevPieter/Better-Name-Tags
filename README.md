@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/static/v1?label=Made%20With&message=%E2%9D%A4&color=red"/>
 <img src="https://img.shields.io/static/v1?label=By&message=DevPieter&color=blueviolet"/>
 <br>
-### Donate
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K05621Y)
 </p>
 
