@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/static/v1?label=By&message=DevPieter&color=blueviolet"/>
 </p>
 
+# Donate
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K05621Y)
+
 # About
 
 Better Name Tags is a free and open-source Fabric mod.
