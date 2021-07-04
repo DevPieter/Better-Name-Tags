@@ -6,9 +6,6 @@
 <img src="https://img.shields.io/static/v1?label=Made%20With&message=%E2%9D%A4&color=red"/>
 <img src="https://img.shields.io/static/v1?label=By&message=DevPieter&color=blueviolet"/>
 </p>
-<div align="center">
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K05621Y)
-</div>
 
 # About
 
@@ -19,12 +16,13 @@ Such as their ❤ health, ↔ distance removed from you, and their XYZ location.
 
 <img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/name-tag-1.PNG"/>
 
-
 <br>
+
+
 
 # Tested Versions
 
-<p align="center">
+<p align="center"> 
 <img src="https://img.shields.io/static/v1?label=Minecraft&message=1.16&color=critical" alt="Minecraft"/>
 <img src="https://img.shields.io/static/v1?label=Minecraft&message=1.16.1&color=critical" alt="Minecraft"/>
 <img src="https://img.shields.io/static/v1?label=Minecraft&message=1.16.2&color=success" alt="Minecraft"/>
@@ -34,3 +32,6 @@ Such as their ❤ health, ↔ distance removed from you, and their XYZ location.
 <br> <br> <br>
 <img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/icon.png" alt="Inco"/>
 </p>
+
+# Donate
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K05621Y)
