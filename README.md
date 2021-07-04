@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/static/v1?label=By&message=DevPieter&color=blueviolet"/>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K05621Y) {align=center}
+
 # About
 
 Better Name Tags is a free and open-source Fabric mod.
@@ -17,8 +19,6 @@ Such as their ❤ health, ↔ distance removed from you, and their XYZ location.
 <img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/name-tag-1.PNG"/>
 
 <br>
-
-
 
 # Tested Versions
 
@@ -32,6 +32,3 @@ Such as their ❤ health, ↔ distance removed from you, and their XYZ location.
 <br> <br> <br>
 <img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/icon.png" alt="Inco"/>
 </p>
-
-# Donate
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K05621Y)
