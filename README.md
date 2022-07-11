@@ -36,5 +36,5 @@ Such as their ❤ health, ↔ distance removed from you, and their XYZ location.
 <img src="https://img.shields.io/static/v1?label=Minecraft&message=1.16.4&color=success" alt="Minecraft"/>
 <img src="https://img.shields.io/static/v1?label=Minecraft&message=1.16.5&color=success" alt="Minecraft"/>
 <br> <br> <br>
-<img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/icon.png" alt="Inco"/>
+<img src="https://github.com/DevPieter/Better-Name-Tags/raw/master/img/icon.png" alt="Icon"/>
 </p>
